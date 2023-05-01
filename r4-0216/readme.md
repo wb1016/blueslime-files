@@ -6,6 +6,6 @@
 - JST-GH connector for extension
 ## battery requirements
 DTP103040 will work flawlessly
-- 51021 connector
+- 51021 connector or JST-PH 2 pin connector
 - integrated over-discharge protection circuit
 - 10x30x40mm size
