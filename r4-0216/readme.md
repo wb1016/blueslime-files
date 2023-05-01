@@ -8,4 +8,4 @@
 DTP103040 will work flawlessly
 - 51021 connector or JST-PH 2 pin connector
 - integrated over-discharge protection circuit
-- 10x30x40mm size
+- 10x30x40mm or 8x40x40 size
