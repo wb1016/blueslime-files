@@ -9,4 +9,4 @@ SlimeVR tracker hardware based on Wemos D1 Mini. comes with various revision.
 | R3 (modular) | BMI160 | untested | n | y |
 | R4 | BMI160 | untested | y | y |
 | R4 (42688) | ICM-42688-P | untested | y | y |
-| R5 | BMI270 | untested | y | n |
+| R5 | BMI270 | tested | y | n |
