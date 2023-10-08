@@ -13,7 +13,7 @@ first implementation of buck convertor and BMI270. better tracking performance a
 ## firmware configuration
 - Board: WeMos D1 Mini
 - Primary IMU: BMI270
-- IMU Rotation: ?
+- IMU Rotation: 0
 - battery detection 180k ohm (default)
 ## battery requirements
 DTP103040 will work flawlessly
