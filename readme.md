@@ -1,3 +1,5 @@
+# DISCONTINUED
+see [BlueSlime-C3](https://github.com/wb1016/BlueSlime-C3) instead
 # BlueSlime SlimeVR PCB Assembly
 SlimeVR tracker hardware based on Wemos D1 Mini. comes with various revision.
 ### what revision should i select?
